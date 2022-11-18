@@ -20,4 +20,8 @@
 
 6 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
 
-7 - Os usuários não terão permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem.
+7 - Os usuários não terão permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
+
+8 - Requisitos do sistema:
+- Distribuição Debian ou derivados;
+- Alterar a permissão do script com o comando ***chmod +x web_server***.
